@@ -59,3 +59,4 @@ pyshorteners
 faker
 pyfiglet
 MukeshAPI
+pymongo==4.6.3
