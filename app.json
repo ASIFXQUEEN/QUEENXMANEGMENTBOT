@@ -1,14 +1,14 @@
 {
-    "name": "Mukesh Robot",
+    "name": "Queen Robot",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+    "logo": "https://graph.org/file/0ab31fe4e9561daad269c.jpg",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+ "repository": "https://github.com/ASIFXQUEEN/QUEENXMANEGMENTBOT",
  "stack": "heroku-22",
  "addons": [
     {
@@ -73,7 +73,7 @@
        "value": ""
     },
     "SUPPORT_CHAT": {
-       "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - The_support_chat.",
+       "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - BESTODISHA.",
        "required": true,
        "value": ""
     },
